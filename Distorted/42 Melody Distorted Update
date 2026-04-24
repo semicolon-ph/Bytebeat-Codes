@@ -1,0 +1,3 @@
+(t * (42 & t >> 10)) + (t | t % 255 | t % 257) + (t & t >> 8) + ((t % ((t >> 8 | t >> 16)+1)^t)) [16000 hz]
+
+Update = Monoxide.exe Sound (No Copy And paste was used in this Code. The Only Bytebeat file is Discovered Monoxide.exe Sound)
