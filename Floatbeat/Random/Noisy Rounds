@@ -1,0 +1,1 @@
+Frequency=sin(t/30.3)+sin(t/21)*t&t>>8%16+sin(t/24)&t<<2 [ 32000 hz ]
