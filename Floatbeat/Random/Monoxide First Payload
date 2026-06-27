@@ -1,0 +1,1 @@
+T=72000, u=t<T?t:2*T-t, u=max(u,0), u=sin(u/10)*u/1000+50000, sin(u/2) * (u>>5) % 32 * (u>>6) // Monoxide First Payload
